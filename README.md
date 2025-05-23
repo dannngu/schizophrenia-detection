@@ -40,7 +40,7 @@ The dataset `schizophrenia.csv` contains **5,610** records. Each record represen
 1. **Clone the repository**
    ```bash
    git clone https://github.com/dannngu/schizophrenia-detection.git
-   cd schizophrenia-predictor
+   cd chizophrenia-detection.
    ```
 2. **Install dependencies**
    ```bash
